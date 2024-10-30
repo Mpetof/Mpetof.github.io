@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Science on My New Hugo Site</title>
+    <link>https://Mpetof.github.io/categories/network-science/</link>
+    <description>Recent content in Network Science on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Mpetof.github.io/categories/network-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Short Review of Scholarly Network Approaches to Modeling the Structure of Knowledge Domains</title>
+      <link>https://Mpetof.github.io/blog/post1/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://Mpetof.github.io/blog/post1/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is the introduction to the scholarly review of network-based approaches&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;comparison-of-scholarly-network-based-approaches&#34;&gt;Comparison of Scholarly Network-based Approaches&lt;/h2&gt;&#xA;&lt;h3 id=&#34;link-construction&#34;&gt;Link Construction&lt;/h3&gt;&#xA;&lt;p&gt;Explanation on link construction&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;node-aggregation-level&#34;&gt;Node Aggregation Level&lt;/h3&gt;&#xA;&lt;p&gt;Explanation on node aggregation level&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;advantages-and-limitations-of-networks&#34;&gt;Advantages and Limitations of Networks&lt;/h2&gt;&#xA;&lt;p&gt;The benefits and limitations of using network-based approaches&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;bibliographies&#34;&gt;Bibliographies&lt;/h2&gt;&#xA;&lt;p&gt;A list of resources and bibliographies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

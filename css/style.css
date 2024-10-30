@@ -1,0 +1,83 @@
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+
+.navbar-content {
+    display: flex;
+    justify-content: center; /* 使导航栏项居中对齐 */
+    gap: 20px; /* 设置各导航项之间的间距 */
+    margin-bottom: 20px; /* 为导航栏底部留出空间 */
+}
+
+.navbar-content a {
+    font-size: 18px; /* 设置字体大小 */
+    font-weight: bold; /* 设置字体加粗 */
+    color: #333; /* 设置字体颜色 */
+    text-decoration: none; /* 去除链接下划线 */
+    transition: color 0.3s; 
+}
+
+.navbar-content a:hover {
+    color: #007acc; /* 悬停时字体颜色 */
+}
+
+.page-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    margin-top: 20px; 
+}
+
+.profile-image {
+    margin-top: 40px;
+    text-align: center; 
+}
+
+.profile-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block; 
+    margin: 0 auto; 
+}
+
+.hero-image {
+    background-image: url('/image/.profile.jpg'); /* 替换为你的背景图片路径 */
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+}
+
+.blog-post {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.post-title {
+    font-size: 2em;
+    color: #444; /* 调整为较浅的灰色 */
+    margin-bottom: 10px;
+    line-height: 1.8;
+    font-family: 'Times New Roman', sans-serif; 
+    text-align: center; /* 居中对齐 */
+}
+
+.post-date {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 10px;
+    font-family: 'Times New Roman', sans-serif; 
+    text-align: center; /* 居中对齐 */
+}
+
+.post-content {
+    line-height: 1.8;
+    font-size: 1.3em;
+    color: #444;
+    margin-top: 20px;
+    font-family: 'Times New Roman', sans-serif; 
+    
+}
